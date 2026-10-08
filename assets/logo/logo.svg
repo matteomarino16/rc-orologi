@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-labelledby="t">
+  <title id="t">RC Orologi</title>
+  <!--
+    Logo provvisorio (ricostruzione tipografica del marchio RC OROLOGI).
+    Per usare il logo ufficiale basta sostituire questo file mantenendo
+    il nome assets/logo/logo.svg e proporzioni simili (circa 1.27 : 1).
+  -->
+  <g fill="#C9A04A" font-family="'Cormorant Garamond', 'Didot', 'Bodoni 72', 'Playfair Display', Georgia, 'Times New Roman', serif">
+    <text x="276" y="300" font-size="330" text-anchor="end" font-weight="500">R</text>
+    <text x="250" y="300" font-size="330" text-anchor="start" font-weight="500">C</text>
+    <text x="280" y="414" font-size="64" text-anchor="middle" letter-spacing="16" font-weight="500">OROLOGI</text>
+  </g>
+  <!-- lancette -->
+  <g fill="#C9A04A">
+    <path d="M366 196 L357 104 L363 104 L371 195 Z"/>
+    <path d="M364 191 L500 168 L500 173 L367 200 Z"/>
+    <circle cx="367" cy="196" r="6"/>
+  </g>
+</svg>
